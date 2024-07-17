@@ -1,0 +1,8 @@
+GET /api/user - Wed Jul 17 2024 21:51:01 GMT+0530 (India Standard Time)
+GET /api/users - Wed Jul 17 2024 21:51:10 GMT+0530 (India Standard Time)
+POST /api/users - Wed Jul 17 2024 21:51:42 GMT+0530 (India Standard Time)
+GET /api/users - Wed Jul 17 2024 21:51:47 GMT+0530 (India Standard Time)
+GET /api/users/6697d749fb87f46d98e4f7dd - Wed Jul 17 2024 21:52:15 GMT+0530 (India Standard Time)
+GET /api/users/6697d773846bdff1b1d9e4c8 - Wed Jul 17 2024 21:52:25 GMT+0530 (India Standard Time)
+DELETE /api/users/6697d773846bdff1b1d9e4c8 - Wed Jul 17 2024 21:52:47 GMT+0530 (India Standard Time)
+GET /api/users - Wed Jul 17 2024 21:52:50 GMT+0530 (India Standard Time)
